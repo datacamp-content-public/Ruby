@@ -1,6 +1,6 @@
 ---
-title: Test
-description: Test
+title: Introduction
+description: ""
 ---
 
 ## An exercise title written in sentence case
@@ -13,8 +13,7 @@ xp: 100
 skills: 2
 ```
 
-This is the assignment text. It should help provide students with the background information needed.
-The instructions that follow should be in bullet point form with clear guidance for what is expected.
+Ruby is an object oriented programming language.
 
 `@instructions`
 - Instruction 1
